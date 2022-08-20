@@ -50,6 +50,7 @@ function pow() {
   screen.value = Math.pow(screen.value, 2)
 }
 
+// factorial
 function fact() {
   let f = 1;
   for (let i = 1; i <= screen.value; i++) {
