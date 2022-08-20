@@ -5,4 +5,4 @@ by Toba
 
 # Summary
 
-a simple scientific calculator in html css and vanilla javascript.
+A simple scientific calculator in html css and vanilla javascript.
